@@ -24,7 +24,7 @@ ValRender AI is a VS Code extension that helps you generate and improve HTML ele
 
 ## Contributing
 
-If you’d like to contribute, check out the [GitHub repo](https://github.com/your-repo).
+If you’d like to contribute, check out the [GitHub repo]([https://github.com/your-repo](https://github.com/pazs49/valrender-ai)).
 
 ## License
 
